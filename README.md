@@ -1,1 +1,1 @@
-# EMOTEXT-Sentiment-analysis-on-a-mobile-product-review
+# EMOTEXT-Sentiment-analysis-of online Mobile product review
